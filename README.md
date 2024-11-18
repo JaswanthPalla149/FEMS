@@ -98,7 +98,3 @@ After completing all operations, the user is greeted with a **Thank You** page, 
 4. Run the Java application using your preferred IDE or terminal.  
 
 ---
-
-## Screenshots 📸  
-
-For a detailed visual guide, refer to the **images** folder in the root directory.  
